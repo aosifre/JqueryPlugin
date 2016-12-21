@@ -4,7 +4,7 @@
   "homepage": "https://github.com/neopel/JqueryPlugin",
   "type": "cakephp-plugin",
   "license": "GNU",
-  "version": "1.0.1",
+  "version": "0.0.3",
   "require": {
     "php": ">=5.5.9",
     "cakephp/cakephp": "~3.3"
